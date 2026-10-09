@@ -1,0 +1,17 @@
+{
+  "format": "panelflow-extension-repository",
+  "schemaVersion": 1,
+  "id": "kleoslick-panelflow-repository",
+  "name": "PanelFlow Sources",
+  "version": "1.0.0",
+  "extensions": [
+    {
+      "id": "volleyball-panels",
+      "name": "PanelFlow volleyball panels",
+      "version": "1.0.0",
+      "language": "English",
+      "adapter": "panelflow-json",
+      "catalogueUrl": "https://kleoslick-cmd.github.io/panelflow-extensions/catalogue.json"
+    }
+  ]
+}

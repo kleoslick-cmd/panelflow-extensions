@@ -1,0 +1,382 @@
+{
+  "format": "panelflow-catalogue",
+  "schemaVersion": 1,
+  "name": "PanelFlow volleyball panels",
+  "version": "1.0.0",
+  "language": "English",
+  "series": [
+    {
+      "id": "above-the-net",
+      "title": "Above the Net",
+      "synopsis": "A handshake between rivals at the net leads into an extended rally. Follow the serves, saves and returns through the supplied volleyball pages.",
+      "cover": "media/uploads/0379-018.jpg",
+      "coverWidth": 2037,
+      "coverHeight": 1600,
+      "chapterIds": [
+        "chapter-01",
+        "chapter-02",
+        "chapter-03",
+        "chapter-04"
+      ],
+      "language": "English",
+      "genres": [
+        "Sports",
+        "Volleyball"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "schemaVersion": 1,
+      "id": "chapter-01",
+      "seriesId": "above-the-net",
+      "number": 1,
+      "title": "Before the whistle",
+      "revision": 4,
+      "panels": [
+        {
+          "id": "page-01",
+          "order": 1,
+          "imagePath": "media/uploads/0379-018.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. A colour manga spread of two volleyball rivals shaking hands at the net.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-02",
+          "order": 2,
+          "imagePath": "media/uploads/0380-007.jpg",
+          "width": 1067,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Spectators discuss a player's career, college supporters cheer, and the server stands ready on the court.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-03",
+          "order": 3,
+          "imagePath": "media/uploads/0380-008.jpg",
+          "width": 2133,
+          "height": 1600,
+          "alt": "Complete volleyball source page. The large left-hand action section shows the server and several volleyball players moving into position.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-04",
+          "order": 4,
+          "imagePath": "media/uploads/0380-009.jpg",
+          "width": 2133,
+          "height": 1600,
+          "alt": "Complete volleyball source page. A full action spread shows the serve, teammates reacting, and the ball entering play.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chapter-02",
+      "seriesId": "above-the-net",
+      "number": 2,
+      "title": "The rally begins",
+      "revision": 7,
+      "panels": [
+        {
+          "id": "page-01",
+          "order": 1,
+          "imagePath": "media/uploads/0380-010.jpg",
+          "width": 1067,
+          "height": 1600,
+          "alt": "Complete volleyball source page. A setter sends the volleyball upward while considering how to greet the opponents.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-02",
+          "order": 2,
+          "imagePath": "media/uploads/0380-011.jpg",
+          "width": 1067,
+          "height": 1600,
+          "alt": "Complete volleyball source page. The bottom section shows shoes pushing off the floor and a close-up of a player concentrating before the jump.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-03",
+          "order": 3,
+          "imagePath": "media/uploads/0380-012.jpg",
+          "width": 2133,
+          "height": 1600,
+          "alt": "Complete volleyball source page. A full landscape action spread captures a powerful volleyball attack and the spectators' reactions.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-04",
+          "order": 4,
+          "imagePath": "media/uploads/0380-013.jpg",
+          "width": 2133,
+          "height": 1600,
+          "alt": "Complete volleyball source page. A smiling player announces his return as the rally concludes and the opposing players react.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chapter-03",
+      "seriesId": "above-the-net",
+      "number": 3,
+      "title": "Keep the rally alive",
+      "revision": 1,
+      "panels": [
+        {
+          "id": "page-01",
+          "order": 1,
+          "imagePath": "media/uploads/0396-003.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-003.png. Players turn and nod as the match reaches a decisive point.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-02",
+          "order": 2,
+          "imagePath": "media/uploads/0396-004.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-004.png. The blocker lifts his arm while the ball drops toward the play.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-03",
+          "order": 3,
+          "imagePath": "media/uploads/0396-005.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-005.png. The attacker leans into the approach as the ball arcs across the court.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-04",
+          "order": 4,
+          "imagePath": "media/uploads/0396-006.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-006.png. The airborne player kicks upward as the ball spins away from the save.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-05",
+          "order": 5,
+          "imagePath": "media/uploads/0396-007.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-007.png. The receiver dives forward, lifts his forearms and sends the ball upward.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-06",
+          "order": 6,
+          "imagePath": "media/uploads/0396-008.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-008.png. The attacker swings through while the volleyball travels away from his hand.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-07",
+          "order": 7,
+          "imagePath": "media/uploads/0396-009.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-009.png. A hitter follows through and the spinning ball pushes past the blockers.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-08",
+          "order": 8,
+          "imagePath": "media/uploads/0396-010.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-010.png. The setter dips into a dive, extends his arm and lifts the ball back into play.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-09",
+          "order": 9,
+          "imagePath": "media/uploads/0396-011.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-011.png. The setter rises beneath the ball and adjusts both hands for the next touch.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-10",
+          "order": 10,
+          "imagePath": "media/uploads/0396-012.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-012.png. The attacker rises, turns his torso and brings the striking arm through the hit.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-11",
+          "order": 11,
+          "imagePath": "media/uploads/0396-013.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0396-013.png. The observer leans slightly and nods while the players react above him.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chapter-04",
+      "seriesId": "above-the-net",
+      "number": 4,
+      "title": "One more return",
+      "revision": 1,
+      "panels": [
+        {
+          "id": "page-01",
+          "order": 1,
+          "imagePath": "media/uploads/0398-003.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0398-003.png. The jumper rises and tucks his legs while his head tracks the play.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-02",
+          "order": 2,
+          "imagePath": "media/uploads/0398-004.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0398-004.png. The defender shifts into position as the approaching ball spins across the next panel.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-03",
+          "order": 3,
+          "imagePath": "media/uploads/0398-005.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0398-005.png. The hands open toward the play while the distant hitter rises above the beach net.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-04",
+          "order": 4,
+          "imagePath": "media/uploads/0398-006.jpg",
+          "width": 2037,
+          "height": 1600,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0398-006.png. The receiver lowers his stance, brings his forearms together and lifts the ball.",
+          "animation": {
+            "type": "gentle-pan",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        },
+        {
+          "id": "page-05",
+          "order": 5,
+          "imagePath": "media/uploads/0398-008.jpg",
+          "width": 1080,
+          "height": 1697,
+          "alt": "Complete volleyball source page. Complete uploaded volleyball page 0398-008.png. The observer nods and shifts his hand while a ball drops into the next receiving panel.",
+          "animation": {
+            "type": "gentle-zoom",
+            "intensity": 0.5,
+            "allowCrop": false
+          }
+        }
+      ]
+    }
+  ]
+}
